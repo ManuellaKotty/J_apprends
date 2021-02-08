@@ -1,0 +1,23 @@
+{
+  "name": "J_apprendsJS",
+  "version": "1.0.0",
+  "description": "Refer to project's description.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuellaKotty/J_apprends.git"
+  },
+  "keywords": [],
+  "author": "Manuella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuellaKotty/J_apprends/issues"
+  },
+  "homepage": "https://github.com/ManuellaKotty/J_apprends#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
